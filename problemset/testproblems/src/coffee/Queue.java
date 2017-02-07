@@ -26,7 +26,7 @@ public class Queue {
 	}
 	int deQueue()
 	{
-		int data = null;
+		int data;
 		if(isEmpty())
 		{
 			throw new EmptyQueueException("Queue Empty");
