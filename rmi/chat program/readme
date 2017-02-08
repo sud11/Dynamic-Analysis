@@ -1,0 +1,13 @@
+Feb 8,2016
+Reference http://www.ejbtutorial.com/programming/java-rmi-example-simple-chat-program-between-server-and-client
+
+-----------------
+
+Java files :
+
+ChatInterface
+Chat
+ChatServer
+ChatClient
+
+-----------------
