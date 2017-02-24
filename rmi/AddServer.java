@@ -5,7 +5,9 @@ public class AddServer{
 		try{
 			AddServerInterface addService=new Adder();
 			Naming.rebind("rmi://localhost:5000/sud",addService);	
-			System.out.println("ERE");
+			System.out.println("HERE");
+//addService object is hosted with name AddService. 
+
 		}catch(Exception e){System.out.println(e);}
 	}
 }

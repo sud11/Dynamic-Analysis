@@ -1,0 +1,16 @@
+Tutorial links :
+	https://www.ejabberd.im/node/1051
+	https://docs.ejabberd.im/admin/installation/
+	https://docs.ejabberd.im/get-started/
+	https://www.digitalocean.com/community/tutorials/how-to-install-ejabberd-xmpp-server-on-ubuntu
+
+Install ejabberd
+
+To add admin
+$ sudo ejabberdctl register admin localhost password
+password - popeyechat
+
+To restart ejabberd
+$service ejabberd restart
+
+In browser, go to http://localhost:5280/admin/ to see the ejabberd admin page
