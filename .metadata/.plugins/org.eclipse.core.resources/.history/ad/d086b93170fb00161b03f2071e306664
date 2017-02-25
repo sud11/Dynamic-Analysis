@@ -1,0 +1,17 @@
+/* A server as before, but this time it will remain 'open' for 
+ * additional connection once a client has quit. The server can handle 
+ * at most one connection at a time. */
+import java.net.io*;
+import java.io.*;
+
+public class AlwaysOnChatServer implements Runnable {
+	private Socket socket = null;
+	private ServerSocket server = null;
+	private Thread thread = null;
+	private DataInputStream streamIn = null;
+	
+	public AlwaysOnChatServer(int port)
+	{
+		
+	}
+}
