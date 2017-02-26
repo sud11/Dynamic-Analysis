@@ -58,7 +58,7 @@ public class AlwaysOnChatServer implements Runnable {
 			}
 		}
 	}
-	public void start()
+	public void start() throws InterruptedException
 	{
 		if(thread == null)
 		{	
@@ -72,16 +72,10 @@ public class AlwaysOnChatServer implements Runnable {
 			for(int i=0; i<10; i++)
 			{
 				System.out.println(i);
-				try {
-					TimeUnit.SECONDS.sleep(4);
-				} catch (InterruptedException e) {
-					// TODO Auto-generated catch block
-					e.printStackTrace();
-				}
+				TimeUnit.SECONDS.sleep(4);
 			}
 		}
 	}
-	
 	public void open() throws IOException
 	{
 		streamIn = new DataInputStream(new BufferedInputStream(socket.getInputStream()));

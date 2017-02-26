@@ -81,7 +81,6 @@ public class AlwaysOnChatServer implements Runnable {
 			}
 		}
 	}
-	
 	public void open() throws IOException
 	{
 		streamIn = new DataInputStream(new BufferedInputStream(socket.getInputStream()));

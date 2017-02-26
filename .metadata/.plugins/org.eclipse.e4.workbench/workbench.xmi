@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_p_tNMOIPEea7UrewFyEyMA" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_p_tNMeIPEea7UrewFyEyMA" bindingContexts="_p_vC4-IPEea7UrewFyEyMA">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AlwaysOnChatServer.java&quot; tooltip=&quot;SocketProgramming/src/AlwaysOnChatServer.java&quot;>&#xA;&lt;persistable path=&quot;/SocketProgramming/src/AlwaysOnChatServer.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ChatClient.java&quot; tooltip=&quot;SocketProgramming/src/ChatClient.java&quot;>&#xA;&lt;persistable path=&quot;/SocketProgramming/src/ChatClient.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ChatServer.java&quot; tooltip=&quot;SocketProgramming/src/ChatServer.java&quot;>&#xA;&lt;persistable path=&quot;/SocketProgramming/src/ChatServer.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ChatClient.java&quot; tooltip=&quot;onTheFly/src/onTheFly/ChatClient.java&quot;>&#xA;&lt;persistable path=&quot;/onTheFly/src/onTheFly/ChatClient.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ChatServer.java&quot; tooltip=&quot;onTheFly/src/onTheFly/ChatServer.java&quot;>&#xA;&lt;persistable path=&quot;/onTheFly/src/onTheFly/ChatServer.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ChatServer.java&quot; tooltip=&quot;/home/hema/Documents/Dynamic-Analysis/socketprogramming/ChatServer.java&quot;>&#xA;&lt;persistable uri=&quot;file:/home/hema/Documents/Dynamic-Analysis/socketprogramming/ChatServer.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Queue.java&quot; tooltip=&quot;testproblems/src/coffee/Queue.java&quot;>&#xA;&lt;persistable path=&quot;/testproblems/src/coffee/Queue.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;LinkedListDriver.java&quot; tooltip=&quot;testproblems/src/coffee/LinkedListDriver.java&quot;>&#xA;&lt;persistable path=&quot;/testproblems/src/coffee/LinkedListDriver.java&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ChatServerThread.java&quot; tooltip=&quot;SocketProgramming/src/ChatServerThread.java&quot;>&#xA;&lt;persistable path=&quot;/SocketProgramming/src/ChatServerThread.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MultiChatServer.java&quot; tooltip=&quot;SocketProgramming/src/MultiChatServer.java&quot;>&#xA;&lt;persistable path=&quot;/SocketProgramming/src/MultiChatServer.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AlwaysOnChatServer.java&quot; tooltip=&quot;SocketProgramming/src/AlwaysOnChatServer.java&quot;>&#xA;&lt;persistable path=&quot;/SocketProgramming/src/AlwaysOnChatServer.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ChatClient.java&quot; tooltip=&quot;SocketProgramming/src/ChatClient.java&quot;>&#xA;&lt;persistable path=&quot;/SocketProgramming/src/ChatClient.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ChatServer.java&quot; tooltip=&quot;SocketProgramming/src/ChatServer.java&quot;>&#xA;&lt;persistable path=&quot;/SocketProgramming/src/ChatServer.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ChatClient.java&quot; tooltip=&quot;onTheFly/src/onTheFly/ChatClient.java&quot;>&#xA;&lt;persistable path=&quot;/onTheFly/src/onTheFly/ChatClient.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ChatServer.java&quot; tooltip=&quot;onTheFly/src/onTheFly/ChatServer.java&quot;>&#xA;&lt;persistable path=&quot;/onTheFly/src/onTheFly/ChatServer.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ChatServer.java&quot; tooltip=&quot;/home/hema/Documents/Dynamic-Analysis/socketprogramming/ChatServer.java&quot;>&#xA;&lt;persistable uri=&quot;file:/home/hema/Documents/Dynamic-Analysis/socketprogramming/ChatServer.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Queue.java&quot; tooltip=&quot;testproblems/src/coffee/Queue.java&quot;>&#xA;&lt;persistable path=&quot;/testproblems/src/coffee/Queue.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;LinkedListDriver.java&quot; tooltip=&quot;testproblems/src/coffee/LinkedListDriver.java&quot;>&#xA;&lt;persistable path=&quot;/testproblems/src/coffee/LinkedListDriver.java&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_p_tNMeIPEea7UrewFyEyMA" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_p_tNMuIPEea7UrewFyEyMA" label="%trimmedwindow.label.eclipseSDK" x="398" y="110" width="651" height="688">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_p_tNMeIPEea7UrewFyEyMA" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_p_tNMuIPEea7UrewFyEyMA" label="%trimmedwindow.label.eclipseSDK" x="398" y="80" width="651" height="688">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -11,6 +11,7 @@
     <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workingSets/>"/>
     <persistedState key="aggregateWorkingSetId" value="Aggregate for window 1487916997813"/>
     <tags>topLevel</tags>
+    <tags>shellMaximized</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_p_tNMuIPEea7UrewFyEyMA" selectedElement="_p_tNM-IPEea7UrewFyEyMA" horizontal="true">
       <children xsi:type="advanced:PerspectiveStack" xmi:id="_p_tNM-IPEea7UrewFyEyMA" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_p_tNNOIPEea7UrewFyEyMA">
         <children xsi:type="advanced:Perspective" xmi:id="_p_tNNOIPEea7UrewFyEyMA" elementId="org.eclipse.jdt.ui.JavaPerspective" selectedElement="_p_tNNeIPEea7UrewFyEyMA" label="Java" iconURI="platform:/plugin/org.eclipse.jdt.ui/$nl$/icons/full/eview16/jperspective.png">
@@ -217,31 +218,47 @@
       <tags>View</tags>
       <tags>categoryTag:Help</tags>
     </sharedElements>
-    <sharedElements xsi:type="advanced:Area" xmi:id="_p_t0QeIPEea7UrewFyEyMA" elementId="org.eclipse.ui.editorss" selectedElement="_p_t0QuIPEea7UrewFyEyMA">
-      <children xsi:type="basic:PartStack" xmi:id="_p_t0QuIPEea7UrewFyEyMA" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_uZ0VQPtvEeaD2r-kU_k-vw">
-        <tags>org.eclipse.e4.primaryDataStack</tags>
-        <tags>EditorStack</tags>
-        <tags>active</tags>
-        <tags>noFocus</tags>
-        <children xsi:type="basic:Part" xmi:id="_FNXs8PttEeaD2r-kU_k-vw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="ChatServer.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ChatServer.java&quot; partName=&quot;ChatServer.java&quot; title=&quot;ChatServer.java&quot; tooltip=&quot;SocketProgramming/src/ChatServer.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/SocketProgramming/src/ChatServer.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1207&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_XK6QkPttEeaD2r-kU_k-vw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="ChatClient.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ChatClient.java&quot; partName=&quot;ChatClient.java&quot; title=&quot;ChatClient.java&quot; tooltip=&quot;SocketProgramming/src/ChatClient.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/SocketProgramming/src/ChatClient.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1245&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_uZ0VQPtvEeaD2r-kU_k-vw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="AlwaysOnChatServer.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AlwaysOnChatServer.java&quot; partName=&quot;AlwaysOnChatServer.java&quot; title=&quot;AlwaysOnChatServer.java&quot; tooltip=&quot;SocketProgramming/src/AlwaysOnChatServer.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/SocketProgramming/src/AlwaysOnChatServer.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1573&quot; selectionTopPixel=&quot;970&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
+    <sharedElements xsi:type="advanced:Area" xmi:id="_p_t0QeIPEea7UrewFyEyMA" elementId="org.eclipse.ui.editorss" selectedElement="_T9vPQPxEEeaZMo4luUqFTQ">
+      <children xsi:type="basic:PartSashContainer" xmi:id="_T9vPQPxEEeaZMo4luUqFTQ" selectedElement="_T9vPQfxEEeaZMo4luUqFTQ">
+        <children xsi:type="basic:PartStack" xmi:id="_T9vPQfxEEeaZMo4luUqFTQ" elementId="PartStack@72dfac2e" containerData="8512" selectedElement="_TXzQoPxEEeaZMo4luUqFTQ">
           <tags>active</tags>
-          <tags>activeOnClose</tags>
+          <tags>noFocus</tags>
+          <children xsi:type="basic:Part" xmi:id="_TXzQoPxEEeaZMo4luUqFTQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="MultiChatServer.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MultiChatServer.java&quot; partName=&quot;MultiChatServer.java&quot; title=&quot;MultiChatServer.java&quot; tooltip=&quot;SocketProgramming/src/MultiChatServer.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/SocketProgramming/src/MultiChatServer.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1491&quot; selectionTopPixel=&quot;297&quot;/>&#xA;&lt;/editor>"/>
+            <tags>Editor</tags>
+            <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+            <tags>removeOnHide</tags>
+            <tags>active</tags>
+            <tags>activeOnClose</tags>
+          </children>
+          <children xsi:type="basic:Part" xmi:id="_-973sPxHEeaZMo4luUqFTQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="ChatServerThread.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ChatServerThread.java&quot; partName=&quot;ChatServerThread.java&quot; title=&quot;ChatServerThread.java&quot; tooltip=&quot;SocketProgramming/src/ChatServerThread.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/SocketProgramming/src/ChatServerThread.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;20&quot; selectionOffset=&quot;286&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+            <tags>Editor</tags>
+            <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+            <tags>removeOnHide</tags>
+          </children>
+        </children>
+        <children xsi:type="basic:PartStack" xmi:id="_p_t0QuIPEea7UrewFyEyMA" elementId="org.eclipse.e4.primaryDataStack" containerData="1488" selectedElement="_uZ0VQPtvEeaD2r-kU_k-vw">
+          <tags>org.eclipse.e4.primaryDataStack</tags>
+          <tags>EditorStack</tags>
+          <children xsi:type="basic:Part" xmi:id="_FNXs8PttEeaD2r-kU_k-vw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="ChatServer.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ChatServer.java&quot; partName=&quot;ChatServer.java&quot; title=&quot;ChatServer.java&quot; tooltip=&quot;SocketProgramming/src/ChatServer.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/SocketProgramming/src/ChatServer.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1207&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+            <tags>Editor</tags>
+            <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+            <tags>removeOnHide</tags>
+          </children>
+          <children xsi:type="basic:Part" xmi:id="_XK6QkPttEeaD2r-kU_k-vw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="ChatClient.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ChatClient.java&quot; partName=&quot;ChatClient.java&quot; title=&quot;ChatClient.java&quot; tooltip=&quot;SocketProgramming/src/ChatClient.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/SocketProgramming/src/ChatClient.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1245&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+            <tags>Editor</tags>
+            <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+            <tags>removeOnHide</tags>
+          </children>
+          <children xsi:type="basic:Part" xmi:id="_uZ0VQPtvEeaD2r-kU_k-vw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="AlwaysOnChatServer.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AlwaysOnChatServer.java&quot; partName=&quot;AlwaysOnChatServer.java&quot; title=&quot;AlwaysOnChatServer.java&quot; tooltip=&quot;SocketProgramming/src/AlwaysOnChatServer.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/SocketProgramming/src/AlwaysOnChatServer.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;229&quot; selectionOffset=&quot;2091&quot; selectionTopPixel=&quot;1521&quot;/>&#xA;&lt;/editor>"/>
+            <tags>Editor</tags>
+            <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+            <tags>removeOnHide</tags>
+          </children>
         </children>
       </children>
     </sharedElements>
@@ -539,7 +556,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_p_t1VeIPEea7UrewFyEyMA" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_80w4sPtrEeaD2r-kU_k-vw" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_p_xfRuIPEea7UrewFyEyMA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_6XUrMPxCEeaZMo4luUqFTQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_p_xfRuIPEea7UrewFyEyMA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_p_ubVOIPEea7UrewFyEyMA" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -563,7 +580,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_p_uboeIPEea7UrewFyEyMA" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_802_UPtrEeaD2r-kU_k-vw" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_p_xeveIPEea7UrewFyEyMA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_6XcnAPxCEeaZMo4luUqFTQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_p_xeveIPEea7UrewFyEyMA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_p_ubrOIPEea7UrewFyEyMA" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>

@@ -1,0 +1,12 @@
+/*Step 3: A server as before, but this time it can handle multiple clients simultaneously. 
+ * The output from all connected clients will appear on the server's screen.
+ */
+import java.net.*;
+import java.io.*;
+public class MultiChatServer 
+{
+	private ServerSocket server = null;
+	private Thread thread = null;
+	private ChatServerThread client = null;
+	
+}
